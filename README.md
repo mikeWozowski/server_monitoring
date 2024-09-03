@@ -16,8 +16,8 @@
 3. **Клонируйте репозиторий**:
 
    ```bash
-   git clone <URL_ВАШЕГО_РЕПОЗИТОРИЯ>
-   cd <ДИРЕКТОРИЯ_ВАШЕГО_ПРОЕКТА>
+   git clone https://github.com/mikeWozowski/server_monitoring.git
+   cd server_monitoring
    ```
 
 4. **Соберите Docker-образ**:
